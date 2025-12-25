@@ -1,0 +1,6 @@
+app:
+    image-viewer: paint.exe
+    video-viewer: vlc.exe
+    ffmpeg: ffmpeg.exe
+    ffmpeg-probe: ffmpeg_probe.exe
+    unrar-path: C:/Program Files/WinRAR/UnRAR.exe
